@@ -6,8 +6,6 @@
 :office: 浙江·杭州;<br>
 :fist: 省级前端;<br>
 :v: 省级小程序开发;<br>
-:hand: 市级java开发;<br>
-:wave: 市级安卓开发;<br>
 
 :point_right: 业余喷子且英雄联盟祖安玩家~ :point_left:<br>
 
