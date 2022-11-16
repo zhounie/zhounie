@@ -12,4 +12,4 @@
 :email: iszhounie@aliyun.com<br>
 **wx** iszhounie<br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhounie&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhounie&bg_color=ffffff&color=52b983&line=52b983&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
