@@ -1,5 +1,5 @@
 ### :cn:
-<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=zhounie&show_icons=true" />
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=zhounie&show_icons=true" />
 <a href='https://undraw.co/'>
   <img align="right" alt='programmer' width=35% src="./undraw_cat_re_gkh9.svg" />
 <a/>
