@@ -6,7 +6,7 @@
 
 :office: 浙江·杭州;<br>
 :fist: 省级前端;<br>
-:v: 省级小程序开发;<br>
+:v: 省级小程序开发;<br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhounie&show_icons=true)
 
 :point_right: 业余喷子且英雄联盟祖安玩家~ :point_left:<br>
 
