@@ -1,8 +1,7 @@
 ### :cn:
-🌱 98年 江西上饶 :boy: <br>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhounie&show_icons=true" />
 
+🌱 98年 江西上饶 :boy: <br>
 :office: 浙江·杭州;<br>
 :fist: 省级前端;<br>
 :v: 省级小程序开发;<br>
